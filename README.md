@@ -27,7 +27,7 @@ Try out a working demo [here](https://onlinegdb.com/_vQXtfSMK).
 - A UML diagram to display the complex number class members and methods
 - 
   <p align="left" style="">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/complex-numbers/main/images/UML.png" alt="demo2" width="300">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/complex-numbers/main/images/UML.png" alt="UML diagram" width="300">
 </p>
 
  ## 🔮 [View my REPLIT profile](https://replit.com/@AndyDerevyanko) ## 
