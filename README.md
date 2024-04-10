@@ -25,7 +25,6 @@ Try out a working demo [here](https://onlinegdb.com/_vQXtfSMK).
 ## 👨‍👦‍👦 UML Diagram
 
 - A UML diagram to display the complex number class members and methods
-- 
   <p align="left" style="">
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/complex-numbers/main/images/UML.png" alt="UML diagram" width="300">
 </p>
