@@ -6,7 +6,7 @@ Simple program to manipulate complex numbers in C++ utilizing OOP.
 
 Try out a working demo [here](https://onlinegdb.com/_vQXtfSMK).
 <p align="left" style="">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/complex-numbers/main/images/demo.png" alt="demo" width="300">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/complex-numbers/main/images/demo1.png" alt="demo" width="300">
 </p>
 <p align="left" style="">
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/complex-numbers/main/images/demo2.png" alt="demo2" width="300">
